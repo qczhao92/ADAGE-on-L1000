@@ -9,5 +9,7 @@ Group members: Yu Zhan, Qingchuan Zhao
 Mentor: Paul Bertin
 
 ===================================
+
 ADAGE Project Model implementation.ipynb tested ADAGE with decoder of different layers
+
 rADAGE.ipynb tested similar model with encoder of different layers
