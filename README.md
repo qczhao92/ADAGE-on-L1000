@@ -1,18 +1,26 @@
 # Human ADAGE Model (HAM)
-implement Analysis using Denoising Autoencoder of Gene Expression in L1000 Connectivity Map perturbational profile dataset.
+Implement Analysis using Denoising Autoencoder of Gene Expression (ADAGE) in L1000 Connectivity Map perturbational profile dataset.
+This is a group project for course AI in Genomics 2021 (District3, Mila, Montreal Univiversity, Concordia University, Montreal, QC, CANADA). 
 
-This is a group project for course AI in Genomics 2021 (District3 and Mila-UdeM). 
+======================================
+Group members: Yu Zhan, Qingchuan Zhao
+
+Mentor: Paul Bertin
+
+======================================
+
+# Objectives:
+Develop an machine learning algorithm to characterize differential gene expression in cancer cell lines treated by drugs.
+
+
+# References:
 Original ADAGE model is published in Tan et al. NSBT (2015) and Tan et al. BMC Bioinformatics (2017)
 
 L1000 data set we used in is from:
 Subramanian A. et al. "A Next Generation Connectivity Map: L1000 Platform and the First 1,000,000 Profiles." Cell 171(6): 1437-1452 e1417.
 
 
-Group members: Yu Zhan, Qingchuan Zhao
-
-Mentor: Paul Bertin
-
-===================================
+# Explanations of use notebook
 
 We focused only on 978 landmark genes in data set.
 
